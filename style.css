@@ -1,0 +1,14 @@
+#video{
+    width: 100%;
+    height: 750px;
+    border: none;
+}
+.campus{
+    border: 1px solid lightgray;
+}
+.campus img{
+    width: 100%;
+}
+.campus h5, .campus p{
+    margin: 20px;
+}
